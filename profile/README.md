@@ -31,7 +31,6 @@ Spacebar is a free, opensource selfhostable discord-compatible chat, voice and v
 * **Secure** (publicly audited and hosted FOSS software for transparent foundation in terms of security)
 
 Logo by [@ItsRealmy](https://github.com/ItsRealmy).
-Original logo by [@nwlandas](https://twitter.com/nwlandas).
 
 ### Installation
 
